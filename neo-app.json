@@ -19,14 +19,13 @@
       },
       "description": "SAPUI5 Test Resources"
     },
-      {
+     {
       "path": "/DEVPortal",
       "target": {
         "type": "destination",
         "name": "DEVPortal",
-        "entryPath": "/"
-      },
-      "description": "DEVPortal"
+         "entryPath": "/"
+      }
     }
   ],
   "sendWelcomeFileRedirect": true
