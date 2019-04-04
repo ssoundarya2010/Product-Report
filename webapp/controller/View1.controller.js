@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("report.ProdReport.controller.View1", {
 		onInit: function () {
-			var data = $.ajax({
+			 $.ajax({
 
 				method: "GET",
 				url: "/DEVPortal",
